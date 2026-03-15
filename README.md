@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a passionate software engineer with a strong foundatio
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230B3D91.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-bennette)
-[![Email](https://img.shields.io/badge/Email-%230B3D91.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinbennette.official@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23091A3E.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinbennette.official@gmail.com)
 
 ---
 
@@ -23,34 +23,34 @@ Welcome to my GitHub! I'm a passionate software engineer with a strong foundatio
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-%230B3D91.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%230B3D91.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%230D47A1.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%231565C0.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%230B3D91.svg?style=flat-square&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%230B3D91.svg?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%230B3D91.svg?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%230B3D91.svg?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%231A237E.svg?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%231976D2.svg?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23091A3E.svg?style=flat-square&logo=python&logoColor=white)
 
 **Cloud & Platforms**
 
-![AWS](https://img.shields.io/badge/AWS-%230B3D91.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230B3D91.svg?style=flat-square&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%230B3D91.svg?style=flat-square&logo=firebase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%231E6FCC.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230D47A1.svg?style=flat-square&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%231565C0.svg?style=flat-square&logo=firebase&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%230B3D91.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%230B3D91.svg?style=flat-square&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%231A237E.svg?style=flat-square&logo=vercel&logoColor=white)
 
 **Frameworks**
 
-![Django](https://img.shields.io/badge/Django-%230B3D91.svg?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%230B3D91.svg?style=flat-square&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%230B3D91.svg?style=flat-square&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%230B3D91.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%230B3D91.svg?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23091A3E.svg?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%231976D2.svg?style=flat-square&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%230D47A1.svg?style=flat-square&logo=express&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%231E6FCC.svg?style=flat-square&logo=Flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%231565C0.svg?style=flat-square&logo=node.js&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-%230B3D91.svg?style=flat-square&logo=apache-tomcat&logoColor=white)
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%230B3D91.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%230B3D91.svg?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%231A237E.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%230D47A1.svg?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
