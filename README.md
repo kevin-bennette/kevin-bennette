@@ -1,6 +1,6 @@
 ## Hi, I'm Kevin Bennette
 
-Software Engineering Student @ [Your University] | Building at the intersection of AI, Automation & Cloud
+Software Engineering Student @ SRMIST | Building at the intersection of AI, Automation & Cloud
 
 Welcome to my GitHub! I'm a passionate software engineer with a strong foundation in **Python**, **Java**, **C/C++**, and **JavaScript**, currently focused on building intelligent, scalable systems that solve real-world problems.
 
@@ -8,7 +8,6 @@ Welcome to my GitHub! I'm a passionate software engineer with a strong foundatio
 - Designing and building AI-integrated backend systems with Django, Flask, and Node.js
 - Exploring cloud infrastructure across AWS, Azure, and Google Cloud
 - Applying automation and problem-solving to full-stack and data-driven projects
-- Practicing DSA rigorously with Python & C++
 
 ---
 
