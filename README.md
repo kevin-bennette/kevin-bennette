@@ -1,36 +1,14 @@
-<div align="left">
+## Hi, I'm <span style="color:#F6C90E">Kevin Bennette</span>
 
-<svg fill="none" viewBox="0 0 800 280" width="800" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="280" fill="#000000" rx="12"/>
-  <rect x="1" y="1" width="798" height="278" rx="11" fill="none" stroke="#F6C90E" stroke-width="1.5"/>
+Software Engineering Student @ [Your University] | Building at the intersection of AI, Automation & Cloud
 
-  <!-- Yellow accent bar -->
-  <rect x="32" y="36" width="4" height="48" fill="#F6C90E" rx="2"/>
+Welcome to my GitHub! I'm a passionate software engineer with a strong foundation in **Python**, **Java**, **C/C++**, and **JavaScript**, currently focused on building intelligent, scalable systems that solve real-world problems.
 
-  <!-- Name -->
-  <text x="48" y="62" font-family="monospace" font-size="26" font-weight="bold" fill="#F6C90E">Hi, I'm Kevin Bennette</text>
-
-  <!-- Subtitle -->
-  <text x="48" y="88" font-family="monospace" font-size="12" fill="#aaaaaa">Software Engineering Student  |  AI · Automation · Cloud</text>
-
-  <!-- Divider -->
-  <line x1="32" y1="108" x2="768" y2="108" stroke="#222222" stroke-width="1"/>
-
-  <!-- Body text -->
-  <text x="32" y="132" font-family="monospace" font-size="12" fill="#ffffff">Passionate software engineer with a strong foundation in Python, Java, C/C++, and JavaScript,</text>
-  <text x="32" y="150" font-family="monospace" font-size="12" fill="#ffffff">building intelligent, scalable systems that solve real-world problems.</text>
-
-  <!-- Currently label -->
-  <text x="32" y="178" font-family="monospace" font-size="12" font-weight="bold" fill="#F6C90E">Currently:</text>
-
-  <!-- Bullet points -->
-  <text x="32" y="198" font-family="monospace" font-size="11.5" fill="#cccccc">▸  Designing AI-integrated backend systems with Django, Flask, and Node.js</text>
-  <text x="32" y="216" font-family="monospace" font-size="11.5" fill="#cccccc">▸  Exploring cloud infrastructure across AWS, Azure, and Google Cloud</text>
-  <text x="32" y="234" font-family="monospace" font-size="11.5" fill="#cccccc">▸  Applying automation and problem-solving to full-stack and data-driven projects</text>
-  <text x="32" y="252" font-family="monospace" font-size="11.5" fill="#cccccc">▸  Practicing DSA rigorously with Python and C++</text>
-</svg>
-
-</div>
+**Currently:**
+- Designing and building AI-integrated backend systems with Django, Flask, and Node.js
+- Exploring cloud infrastructure across AWS, Azure, and Google Cloud
+- Applying automation and problem-solving to full-stack and data-driven projects
+- Practicing DSA rigorously with Python & C++
 
 ---
 
