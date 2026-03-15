@@ -24,18 +24,6 @@ Welcome to my GitHub! I'm a passionate software engineer with a strong foundatio
 
 ---
 
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Project Name](https://github.com/kevin-bennette) | Short one-line description of what it does and why it matters | Python, Django, AWS |
-| [Project Name](https://github.com/kevin-bennette) | Short one-line description of what it does and why it matters | Node.js, Firebase |
-| [Project Name](https://github.com/kevin-bennette) | Short one-line description of what it does and why it matters | Flutter, GCP |
-
-> Replace placeholders with your 2–3 best pinned repos. One line per project — what it does, not how you built it.
-
----
-
 ## Tech Stack
 
 **Languages**
