@@ -1,30 +1,4 @@
-<div align="center">
-
-<!-- BATMAN BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:F6C90E&height=200&section=header&text=KEVIN%20BENNETTE&fontSize=50&fontColor=F6C90E&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%7C%20Automation&descAlignY=58&descColor=ffffff&animation=fadeIn" />
-
-</div>
-
----
-
-<div align="center">
-
-```
- ██████╗  █████╗ ████████╗███╗   ███╗ █████╗ ███╗   ██╗
- ██╔══██╗██╔══██╗╚══██╔══╝████╗ ████║██╔══██╗████╗  ██║
- ██████╔╝███████║   ██║   ██╔████╔██║███████║██╔██╗ ██║
- ██╔══██╗██╔══██║   ██║   ██║╚██╔╝██║██╔══██║██║╚██╗██║
- ██████╔╝██║  ██║   ██║   ██║ ╚═╝ ██║██║  ██║██║ ╚████║
- ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
-
-</div>
-
----
-
-## 💫 About Me
-
-> *"It's not who I am underneath, but what I do that defines me."*
+## About Me
 
 I am a software engineering student with a deep interest in **AI integration**, **automation**, and **problem-solving**. I enjoy exploring how technology can optimize processes, improve efficiency, and create smarter systems.
 
@@ -32,18 +6,18 @@ My focus lies in blending AI with software development to build **intelligent an
 
 I believe in the power of **continuous learning**, **adaptability**, and **creative problem-solving** to drive meaningful progress in the tech world. Always open to new opportunities, discussions, and collaborations in AI, automation, and beyond!
 
-> *Let's connect and explore the future of technology together.*
+Let's connect and explore the future of technology together.
 
 ---
 
-## 🌐 Socials
+## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=F6C90E)](https://linkedin.com/in/kevin-bennette)
 [![Email](https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=F6C90E)](mailto:kevinbennette.official@gmail.com)
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -78,7 +52,7 @@ I believe in the power of **continuous learning**, **adaptability**, and **creat
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -92,11 +66,11 @@ I believe in the power of **continuous learning**, **adaptability**, and **creat
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kevin-bennette&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=F6C90E)
+![Trophies](https://github-profile-trophy.vercel.app/?username=kevin-bennette&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
 
@@ -105,7 +79,5 @@ I believe in the power of **continuous learning**, **adaptability**, and **creat
 <div align="center">
 
 [![Visit Count](https://visitcount.itsvg.in/api?id=kevin-bennette&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F6C90E,50:1a1a1a,100:000000&height=120&section=footer" />
 
 </div>
