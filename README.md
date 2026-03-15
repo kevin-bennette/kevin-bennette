@@ -10,12 +10,29 @@ Welcome to my GitHub! I'm a passionate software engineer with a strong foundatio
 - Applying automation and problem-solving to full-stack and data-driven projects
 - Practicing DSA rigorously with Python & C++
 
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%230D47A1.svg?style=for-the-badge&logoColor=white)
+![Student](https://img.shields.io/badge/Student-%231565C0.svg?style=for-the-badge&logoColor=white)
+![Available for Internships](https://img.shields.io/badge/Available%20for%20Internships-%231A237E.svg?style=for-the-badge&logoColor=white)
+
 ---
 
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230B3D91.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-bennette)
 [![Email](https://img.shields.io/badge/Email-%23091A3E.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinbennette.official@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%231565C0.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/kevin-bennette)
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Project Name](https://github.com/kevin-bennette) | Short one-line description of what it does and why it matters | Python, Django, AWS |
+| [Project Name](https://github.com/kevin-bennette) | Short one-line description of what it does and why it matters | Node.js, Firebase |
+| [Project Name](https://github.com/kevin-bennette) | Short one-line description of what it does and why it matters | Flutter, GCP |
+
+> Replace placeholders with your 2–3 best pinned repos. One line per project — what it does, not how you built it.
 
 ---
 
@@ -60,7 +77,11 @@ Welcome to my GitHub! I'm a passionate software engineer with a strong foundatio
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kevin-bennette&hide_border=true&background=0d1117&stroke=0B3D91&ring=1E6FCC&fire=C49A2A&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=1E6FCC&sideLabels=1E6FCC&dates=888888)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-bennette&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical&bg_color=0d1117&title_color=1E6FCC&text_color=ffffff&icon_color=1E6FCC&hide=batchfile&custom_title=Most+Used+Languages)
+---
+
+## Coding Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kevin-bennette&bg_color=0d1117&color=1E6FCC&line=1565C0&point=C49A2A&area=true&area_color=0B3D91&hide_border=true)
 
 ---
 
