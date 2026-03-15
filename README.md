@@ -1,6 +1,6 @@
 ## Hi, I'm <span style="color:#1E6FCC">Kevin Bennette</span>
 
-Software Engineering Student @ [Your University] | Building at the intersection of AI, Automation & Cloud
+Software Engineering Student @SRMIST| Building at the intersection of AI, Automation & Cloud
 
 Welcome to my GitHub! I'm a passionate software engineer with a strong foundation in **Python**, **Java**, **C/C++**, and **JavaScript**, currently focused on building intelligent, scalable systems that solve real-world problems.
 
