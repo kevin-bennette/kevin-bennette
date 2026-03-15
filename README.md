@@ -1,4 +1,4 @@
-## Hi, I'm <span style="color:#F6C90E">Kevin Bennette</span>
+## Hi, I'm <span style="color:#1E6FCC">Kevin Bennette</span>
 
 Software Engineering Student @ [Your University] | Building at the intersection of AI, Automation & Cloud
 
@@ -14,8 +14,8 @@ Welcome to my GitHub! I'm a passionate software engineer with a strong foundatio
 
 ## Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=F6C90E)](https://linkedin.com/in/kevin-bennette)
-[![Email](https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=F6C90E)](mailto:kevinbennette.official@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230B3D91.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-bennette)
+[![Email](https://img.shields.io/badge/Email-%230B3D91.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinbennette.official@gmail.com)
 
 ---
 
@@ -23,47 +23,47 @@ Welcome to my GitHub! I'm a passionate software engineer with a strong foundatio
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-%23000000.svg?style=flat-square&logo=c&logoColor=F6C90E)
-![C++](https://img.shields.io/badge/C++-%23000000.svg?style=flat-square&logo=c%2B%2B&logoColor=F6C90E)
-![HTML5](https://img.shields.io/badge/HTML5-%23000000.svg?style=flat-square&logo=html5&logoColor=F6C90E)
-![Java](https://img.shields.io/badge/Java-%23000000.svg?style=flat-square&logo=openjdk&logoColor=F6C90E)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23000000.svg?style=flat-square&logo=javascript&logoColor=F6C90E)
-![Python](https://img.shields.io/badge/Python-%23000000.svg?style=flat-square&logo=python&logoColor=F6C90E)
+![C](https://img.shields.io/badge/C-%230B3D91.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%230B3D91.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%230B3D91.svg?style=flat-square&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%230B3D91.svg?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%230B3D91.svg?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%230B3D91.svg?style=flat-square&logo=python&logoColor=white)
 
 **Cloud & Platforms**
 
-![AWS](https://img.shields.io/badge/AWS-%23000000.svg?style=flat-square&logo=amazon-aws&logoColor=F6C90E)
-![Azure](https://img.shields.io/badge/Azure-%23000000.svg?style=flat-square&logo=microsoftazure&logoColor=F6C90E)
-![Firebase](https://img.shields.io/badge/Firebase-%23000000.svg?style=flat-square&logo=firebase&logoColor=F6C90E)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-%23000000.svg?style=flat-square&logo=google-cloud&logoColor=F6C90E)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/AWS-%230B3D91.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230B3D91.svg?style=flat-square&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%230B3D91.svg?style=flat-square&logo=firebase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%230B3D91.svg?style=flat-square&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%230B3D91.svg?style=flat-square&logo=vercel&logoColor=white)
 
 **Frameworks**
 
-![Django](https://img.shields.io/badge/Django-%23000000.svg?style=flat-square&logo=django&logoColor=F6C90E)
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=ffffff)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=ffffff)
-![Flutter](https://img.shields.io/badge/Flutter-%23000000.svg?style=flat-square&logo=Flutter&logoColor=F6C90E)
-![Node.js](https://img.shields.io/badge/Node.js-%23000000.svg?style=flat-square&logo=node.js&logoColor=F6C90E)
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-%23000000.svg?style=flat-square&logo=apache-tomcat&logoColor=F6C90E)
+![Django](https://img.shields.io/badge/Django-%230B3D91.svg?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%230B3D91.svg?style=flat-square&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%230B3D91.svg?style=flat-square&logo=express&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%230B3D91.svg?style=flat-square&logo=Flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%230B3D91.svg?style=flat-square&logo=node.js&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-%230B3D91.svg?style=flat-square&logo=apache-tomcat&logoColor=white)
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23000000.svg?style=flat-square&logo=postgresql&logoColor=F6C90E)
-![MySQL](https://img.shields.io/badge/MySQL-%23000000.svg?style=flat-square&logo=mysql&logoColor=F6C90E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%230B3D91.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%230B3D91.svg?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevin-bennette&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=F6C90E&text_color=ffffff&icon_color=F6C90E&border_color=F6C90E)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevin-bennette&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=1E6FCC&text_color=ffffff&icon_color=C49A2A&border_color=0B3D91)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kevin-bennette&theme=radical&hide_border=true&background=000000&stroke=F6C90E&ring=F6C90E&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F6C90E&sideLabels=F6C90E&dates=888888)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kevin-bennette&hide_border=true&background=0d1117&stroke=0B3D91&ring=1E6FCC&fire=C49A2A&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=1E6FCC&sideLabels=1E6FCC&dates=888888)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-bennette&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=000000&title_color=F6C90E&text_color=ffffff&icon_color=F6C90E)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-bennette&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=1E6FCC&text_color=ffffff&icon_color=C49A2A)
 
 ---
 
 ## GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kevin-bennette&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=kevin-bennette&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)
