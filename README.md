@@ -1,12 +1,14 @@
-## About Me
+## Hi, I'm Kevin Bennette
 
-I am a software engineering student with a deep interest in **AI integration**, **automation**, and **problem-solving**. I enjoy exploring how technology can optimize processes, improve efficiency, and create smarter systems.
+Software Engineering Student @ [Your University] | Building at the intersection of AI, Automation & Cloud
 
-My focus lies in blending AI with software development to build **intelligent and scalable solutions**. I am always eager to learn, experiment with new technologies, and collaborate on projects that push the boundaries of innovation.
+Welcome to my GitHub! I'm a passionate software engineer with a strong foundation in **Python**, **Java**, **C/C++**, and **JavaScript**, currently focused on building intelligent, scalable systems that solve real-world problems.
 
-I believe in the power of **continuous learning**, **adaptability**, and **creative problem-solving** to drive meaningful progress in the tech world. Always open to new opportunities, discussions, and collaborations in AI, automation, and beyond!
-
-Let's connect and explore the future of technology together.
+**Currently:**
+- Designing and building AI-integrated backend systems with Django, Flask, and Node.js
+- Exploring cloud infrastructure across AWS, Azure, and Google Cloud
+- Applying automation and problem-solving to full-stack and data-driven projects
+- Practicing DSA rigorously with Python & C++
 
 ---
 
@@ -54,30 +56,14 @@ Let's connect and explore the future of technology together.
 
 ## GitHub Stats
 
-<div align="center">
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevin-bennette&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=F6C90E&text_color=ffffff&icon_color=F6C90E&border_color=F6C90E)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kevin-bennette&theme=radical&hide_border=true&background=000000&stroke=F6C90E&ring=F6C90E&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F6C90E&sideLabels=F6C90E&dates=888888)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-bennette&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=000000&title_color=F6C90E&text_color=ffffff&icon_color=F6C90E)
 
-</div>
-
 ---
 
 ## GitHub Trophies
 
-<div align="center">
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=kevin-bennette&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
-<div align="center">
-
-[![Visit Count](https://visitcount.itsvg.in/api?id=kevin-bennette&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-</div>
