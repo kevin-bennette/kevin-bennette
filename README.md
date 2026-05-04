@@ -59,13 +59,6 @@ Welcome to my GitHub! I'm a passionate software engineer with a strong foundatio
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevin-bennette&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=1E6FCC&text_color=ffffff&icon_color=C49A2A&border_color=0B3D91)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kevin-bennette&hide_border=true&background=0d1117&stroke=0B3D91&ring=1E6FCC&fire=C49A2A&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=1E6FCC&sideLabels=1E6FCC&dates=888888)
-
----
 
 ## Coding Activity
 
